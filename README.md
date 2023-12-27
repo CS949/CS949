@@ -8,9 +8,12 @@ As the proud founder of CodeSwift, I'm the mastermind behind software wizardry, 
 
 🌈 Tech Shenanigans & Community Giggles 🤖
 
-When I'm not decoding the secrets of the digital universe, I moonlight as a mentor at ISTE SJCEM, ITSA SJCEM, and dance with the Google Developer Group Cloud Mumbai & Google Developer Group MAD. Let's sprinkle some laughter on the serious tech scene! Join me for a virtual cup of code, and let's make tech magic happen! 🚀✨ #CodeCraftsman #ByteMischief #TechWizardry
+When I'm not decoding the secrets of the digital universe, I moonlight as a mentor at ISTE SJCEM, ITSA SJCEM, and dance with the Google Developer Group Cloud Mumbai & Google Developer Group MAD. Let's sprinkle some laughter on the serious tech scene! Join me for a virtual cup of code, and let's make tech magic happen! 🚀✨ 
 
 📫 To reach me chaitanyas949@gmail.com
+
+#CodeCraftsman #ByteMischief #TechWizardry
+
 
 <!---
 CS949/CS949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
